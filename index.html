@@ -36,7 +36,7 @@
         </div>
 
         <div class="flex flex-row items-center">
-          <button class="text-primary text-lg font-semibold uppercase">
+          <button class="text-primary text-lg font-semibold uppercase" @click="toggleFilter()">
             Filter by language
           </button>
         </div>
@@ -50,6 +50,7 @@
             :text="language"
             @click="chooseLanguage(language)"
           >
+          {{language}}
           </button>
         </div>
       </div>

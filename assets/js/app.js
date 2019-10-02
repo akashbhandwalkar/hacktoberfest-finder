@@ -63,7 +63,6 @@ const app = new Vue({
         chooseLanguage(language) {
             this.results = [];
             this.currentLanguage = language;
-            this.isFilterToggled = !this.isFilterToggled;
             this.showViewMore = false;
             this.isFetching = false;
             this.page = 1;
