@@ -1,5 +1,13 @@
 # Contributors
 
+## 2019
+
+- [Kristiyan](https://github.com/kristiyan-ASW-G-08)
+- [dennypradipta](https://github.com/dennypradipta)
+- [kev1nboer](https://github.com/kev1nboer)
+- [audrius59](https://github.com/audrius59)
+- [SARAN-thala](https://github.com/SARAN-thala)
+
 ## 2018
 
 - [damcclean](https://github.com/damcclean)
